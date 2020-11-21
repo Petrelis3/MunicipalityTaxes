@@ -1,0 +1,12 @@
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Business\obj\Debug\netcoreapp3.1\Business.pdb

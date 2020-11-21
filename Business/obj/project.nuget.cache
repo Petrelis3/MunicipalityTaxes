@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmyLwQur70C2GmcpqUmpOZxiIHaJCnkSaQV3vru7Kv4tAkyI5RjHKomqdPKe3nifmCR6UixW2oayUuCuCSzZpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\local\\MunicipalityTaxes\\MunicipalityTaxes\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liudasp\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

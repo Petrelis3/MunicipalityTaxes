@@ -1,0 +1,9 @@
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Projects\local\MunicipalityTaxes\MunicipalityTaxes\Core\obj\Debug\netcoreapp3.1\Core.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vgh4XYjyIKDH5GI0qBdzGptbWooVgp1KBP1v8Vd2sgn/FByErV2lgYLJJZse7c5esvzs1CveK2DTAddcQVnyKw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\local\\MunicipalityTaxes\\MunicipalityTaxes\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liudasp\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\liudasp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
